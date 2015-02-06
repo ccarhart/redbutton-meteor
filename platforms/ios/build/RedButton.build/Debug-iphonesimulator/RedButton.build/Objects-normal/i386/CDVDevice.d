@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/catherine/Sites/meteor/redbutton-phonegap/platforms/ios/RedButton/Plugins/org.apache.cordova.device/CDVDevice.m \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/catherine/sites/meteor/redbutton-phonegap/platforms/ios/build/emulator/include/Cordova/CDVJSON.h \
+  /Users/catherine/Sites/meteor/redbutton-phonegap/platforms/ios/RedButton/Plugins/org.apache.cordova.device/CDVDevice.h

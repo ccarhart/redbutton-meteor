@@ -1,0 +1,74 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "c7edc4b7935c7e0d07292d7df34a27b680dfc308.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/c7edc4b7935c7e0d07292d7df34a27b680dfc308.js",
+      "size": 340351,
+      "hash": "c7edc4b7935c7e0d07292d7df34a27b680dfc308"
+    },
+    {
+      "path": "a5a295ac5175460c556d7a2a02d3db0f286dc167.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/a5a295ac5175460c556d7a2a02d3db0f286dc167.css?meteor_css_resource=true",
+      "size": 134,
+      "hash": "a5a295ac5175460c556d7a2a02d3db0f286dc167"
+    },
+    {
+      "path": "app/images/micready.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/micready.png",
+      "size": 6616,
+      "hash": "bf2ab1f064f0d4485e02253e28d7d9c4d28c5461"
+    },
+    {
+      "path": "app/images/micrecording.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/micrecording.png",
+      "size": 7533,
+      "hash": "5a8005e68d2f6c452c9e440697ea4a4a89f7eaa7"
+    },
+    {
+      "path": "app/images/pause.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/pause.png",
+      "size": 6389,
+      "hash": "720384222007a65d25721d82e7f530739fd2957d"
+    },
+    {
+      "path": "app/images/play.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/play.png",
+      "size": 6610,
+      "hash": "ccdd2c3599023070d9ea317b52eed498c77e2ad8"
+    },
+    {
+      "path": "app/images/stop.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/images/stop.png",
+      "size": 6040,
+      "hash": "b2400f1db7624d691d97a4249b9c99173081d427"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "4b7a17c164365cf333f9cf641fed73da6a37ea6f"
+    }
+  ]
+}
